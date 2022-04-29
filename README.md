@@ -2,7 +2,7 @@
 
 Projeto de lista de filmes ,consumindo API, desenvolvido com React.Js
 
-link: https://lista-filmes.netlify.app/favoritos
+link: https://lista-filmes.netlify.app/
 
 ##Ferramentas:
 
