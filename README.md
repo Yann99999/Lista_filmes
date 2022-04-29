@@ -7,7 +7,11 @@ link: https://lista-filmes.netlify.app/favoritos
 ##Ferramentas:
 
 *Visual Studio Code
-*Netlify 
+
+*Netlify
+
 *React.js
+
 *Bibilioteca react router-dom e toastify
+
 *API => https://sujeitoprogramador.com/r-api/?api=filmes/
