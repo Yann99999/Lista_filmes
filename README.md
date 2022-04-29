@@ -1,6 +1,6 @@
 #Lista de Filmes
 
-Proeto de lista de filmes consumindo API, desenvolvido com React.Js
+Projeto de lista de filmes ,consumindo API, desenvolvido com React.Js
 
 link: https://lista-filmes.netlify.app/favoritos
 
