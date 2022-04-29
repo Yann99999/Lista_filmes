@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.lista-filmes{
+    margin: 15px;
+}
+.lista-filmes article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 35px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 0 rgb(88, 88, 88);
+}
+
+.lista-filmes strong{
+    font-size: 1.5em;
+    padding-bottom: 10px;
+}
+
+.lista-filmes img{
+    width: 900px;
+    height: 400px;
+}
+
+.lista-filmes article a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(209, 29, 29);
+    font-size: 1.5em;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    transition: all 0.50s;
+}
+.lista-filmes article a:hover{
+    background-color: red;
+}

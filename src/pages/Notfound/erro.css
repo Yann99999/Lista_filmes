@@ -1,0 +1,26 @@
+.notfound{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.notfound-title{
+    font-style: italic;
+    font-size: 4em;
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.notfound-subtitle{
+    font-size: 1.7em;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.voltar{
+    margin-right: 200px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
