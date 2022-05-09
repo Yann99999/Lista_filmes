@@ -2,7 +2,7 @@
 
 Projeto de listagem de filmes,  que consome API, desenvolvido em React.JS
 
-Link => https://lista-filmes.netlify.app/
+Link => https://wishlist-filmes.netlify.app
 
 ##Ferramentas utilizadas:
 
